@@ -6,7 +6,6 @@
     Support high-quality editorials
 
 # Award
-   
    30 Days of JavaScript
    Complete the study plan to win the badge! 
 
