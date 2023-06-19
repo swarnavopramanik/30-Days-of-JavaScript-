@@ -7,8 +7,8 @@
     Support high-quality editorials
 
 # Award
-   30 Days of JavaScript
-   Complete the study plan to win the badge! 
+     30 Days of JavaScript
+     Complete the study plan to win the badge! 
 
 ![image](https://github.com/swarnavopramanik/30-Days-of-JavaScript-/assets/105142693/5bd52552-e99c-4e84-a7eb-dd1af8f035b8)
 
